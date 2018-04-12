@@ -1,0 +1,5 @@
+__pycache__/
+db.sqlite3
+settings.py
+views.py
+zappa_settings.json
